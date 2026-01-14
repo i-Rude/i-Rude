@@ -1,97 +1,90 @@
-<!-- ===================================== -->
-<!--        GitHub Profile README          -->
-<!--        Dark • Red • Minimal           -->
-<!-- ===================================== -->
+<!-- =============================== -->
+<!--        GitHub Profile           -->
+<!--      Dark · Red · Minimal       -->
+<!-- =============================== -->
 
-<h1 align="center">Rudro Datta</h1>
+<h1 align="center">Rudro Shine Datta</h1>
 
 <p align="center">
-  <span style="color:#7a0000;">Web Developer</span> · MERN Stack · Engineering Mindset
+  Web Developer · MERN Stack · Systems First
 </p>
 
-<hr style="border: 1px solid #7a0000;" />
+<p align="center">
+  <a href="https://rudroshinedatta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=7a0000&labelColor=0a0a0a" />
+  </a>
+  <a href="https://linkedin.com/in/rsdatta">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=7a0000&labelColor=0a0a0a" />
+  </a>
+  <a href="mailto:rudroshinedatta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=7a0000&labelColor=0a0a0a" />
+  </a>
+</p>
+
+<hr />
 
 ## About
 
-I build systems with intention — not noise.  
-Focused on modern web architecture, performance, and clean abstractions.
+I focus on building web systems that are deliberate, scalable, and restrained.
+Currently advancing through the MERN stack while seeking environments where
+engineering discipline outweighs surface polish.
 
-Currently deepening my understanding of full-stack development using the **MERN stack**, while actively seeking environments where engineering discipline and real-world impact matter.
-
-Looking for:
-- Internship opportunities
-- Challenging problems
-- Teams that value clarity over clutter
+Open to internships and meaningful collaboration.
 
 ---
 
-## Focus Areas
-
-- Full-Stack Web Development  
-- Scalable Backend Design  
-- API Architecture & Authentication  
-- Clean UI with functional minimalism  
-
----
-
-## Tech Stack
+## Core Stack
 
 ### Frontend
-- HTML5, CSS3  
-- JavaScript, TypeScript  
-- React, Next.js  
-- Bootstrap  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next&theme=dark" />
+</p>
 
 ### Backend
-- Node.js  
-- NestJS  
-- JWT Authentication  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs&theme=dark" />
+  <img src="https://img.shields.io/badge/JWT-0a0a0a?style=for-the-badge&logo=jsonwebtokens&logoColor=7a0000" />
+</p>
 
 ### Databases
-- MongoDB  
-- PostgreSQL  
-- MySQL  
-- Microsoft SQL Server  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" />
+</p>
 
-### Tools & Workflow
-- Git, GitHub  
-- Postman  
-- Vercel  
-- NPM  
+### Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,npm&theme=dark" />
+</p>
 
 ---
 
-## Selected Background
+## Extended Background
 
-- Experience with low-level languages (C, C++, C#)  
-- Familiar with Java & Python ecosystems  
-- Exposure to ML frameworks (TensorFlow, PyTorch, Scikit-Learn)  
-- Design tools: Photoshop, Illustrator, Lightroom  
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=dark" />
+</p>
 
-Engineering first. Tools second.
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator&theme=dark" />
+</p>
 
----
-
-## Presence
-
-- Portfolio: https://your-portfolio-link.com  
-- LinkedIn: https://linkedin.com/in/rsdatta  
-- Email: rudroshinedatta@gmail.com  
+Experience across low-level programming, backend systems, and ML frameworks
+informs how I approach problem-solving and architecture.
 
 ---
 
-## GitHub Activity
+## GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=i-Rude&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=7a0000&icon_color=7a0000&text_color=cccccc" height="160"/>
 </p>
 
-<hr style="border: 1px solid #7a0000;" />
-
-<p align="center" style="color:#7a0000;">
-  Minimal surface. Serious depth.
-</p>
+<hr />
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=i-Rude&icon=0&color=7" />
+</p>
+
+<p align="center" style="color:#7a0000;">
+  Quiet build. Visible results.
 </p>
