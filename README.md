@@ -70,21 +70,3 @@ Open to internships and meaningful collaboration.
 
 Experience across low-level programming, backend systems, and ML frameworks
 informs how I approach problem-solving and architecture.
-
----
-
-## GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i-Rude&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=7a0000&icon_color=7a0000&text_color=cccccc" height="160"/>
-</p>
-
-<hr />
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=i-Rude&icon=0&color=7" />
-</p>
-
-<p align="center" style="color:#7a0000;">
-  Quiet build. Visible results.
-</p>
